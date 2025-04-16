@@ -52,17 +52,17 @@ You can take them using **Snipping Tool** or **Print Screen**
 
 ## ✅ Status
 
-- [x] Model Training  
-- [x] Prediction Function  
-- [x] Evaluation Metrics  
+- [ ] Model Training  
+- [ ] Prediction Function  
+- [ ] Evaluation Metrics  
 - [ ] Deployed (optional – coming soon!)
 
 ---
 
 ## 💡 Author
 
-**Hema Chandana**  
+**SHARABU MANOJ KUMAR**  
 Future Data Scientist Lead 💼  
-MLSA Applicant 🎓
+
 
 ---
